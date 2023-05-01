@@ -68,9 +68,14 @@ header{
 h1{
 	text-align: left;
 }
+.head{
+	text-align: center;
+	font-size: 2rem;
+}
 
-
-
+#list2 a{
+	2rem
+}
 
 
 
