@@ -49,7 +49,12 @@ nav {
 	margin-left: 2px;
 }
 
-
+h1 a{
+	text-decoration: none;
+	color: black;
+	margin-left: 35%;
+	padding: 2rem;
+}
 
 /* tablet size */
 
@@ -111,6 +116,10 @@ figure{
 }
 a.more{
 	color: green;
+}
+a.most{
+	color: green;
+	font-size: 1.5rem;
 }
 
 div.gallery {
